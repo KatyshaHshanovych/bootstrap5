@@ -1,0 +1,20 @@
+.card {
+  background-color: whitesmoke;
+}
+
+.navigation {
+  &__item {
+    background: red;
+  }
+  &__link {
+    background: red;
+  }
+}
+
+.animals {
+  &__title {
+    @media (max-width: 475px) {
+      font-size: 40px;
+    }
+  }
+}

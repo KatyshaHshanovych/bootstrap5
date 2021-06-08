@@ -1,0 +1,18 @@
+.card {
+  background-color: whitesmoke;
+}
+
+.navigation__item {
+  background: red;
+}
+.navigation__link {
+  background: red;
+}
+
+@media (max-width: 475px) {
+  .animals__title {
+    font-size: 40px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
